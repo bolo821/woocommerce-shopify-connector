@@ -1,0 +1,47 @@
+*** Shopify Connector for WooCommerce ***
+
+2022-05-12 - version 1.0.8
+* [FIXED] Bug fixes
+
+2022-03-29 - version 1.0.7
+* [FIXED] Improved stability
+
+2022-03-23 - version 1.0.6
+* [FIXED] Improved stability
+
+2022-03-04 - version 1.0.5
+* [FIXED] Improved stability
+* [ADDED] Implement updated API for custom apps.
+
+2021-10-29 - version 1.0.4
+* [FIXED] Price syncing
+* [ADDED] Email Restriction On Order Import
+* [ADDED] Tags Import
+* [ADDED] Category Import if multiple 
+
+2021-10-13 - version 1.0.3
+* [FIXED] Variable products creation
+* [FIXED] Stock and price syncing
+* [FIXED] New meta and fields to updated 
+* [ADDED] Navigation 
+* [ADDED] Tooltip on several steps for client convenient
+* [ADDED] Compare at price and price
+* [ADDED] Stock update on shopify store based on store location
+* [ADDED] Order Creation on shopify when changed to processing state on woocommerce
+
+2021-05-13 - version 1.0.2
+* [Fixed] Product import from collection and smart collections.
+* [Fixed] products count from collections.
+* [Added] Order Import.
+
+2021-04-22 - version 1.0.1
+* [Fixed] Product Import bug.
+* [Fixed] Image creation Bug.
+* [Fixed] Category Import bug.
+* [Added] Customer Import feature.
+* [Added] Coupon Import feature.
+* [Added] Blogs Import feature.
+* [Added] Layout Changes.
+
+2021-04-01 - version 1.0.0
+* Initial Release
